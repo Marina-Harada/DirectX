@@ -1,0 +1,3 @@
+﻿  player.cpp
+C:\Users\student\source\repos\Dx2\main.h(7,9): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+  Dx2.vcxproj -> C:\Users\student\source\repos\Dx2\Debug\Dx2.exe
